@@ -42,7 +42,7 @@
       f9cfdbfc-d35a-496d-bc11-ef3018ce034b
     )
   )
-  (model "/home/daniel/dev/KiCad/open_source/3dmodels/Sunltech_Tech/SLO0630H.step"
+  (model "${CUSTOM_KICAD_DIR}/3dmodels/Sunltech_Tech/SLO0630H.step"
     (offset (xyz -3.3 0 0.25))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
